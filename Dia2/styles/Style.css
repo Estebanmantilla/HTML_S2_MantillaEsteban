@@ -1,0 +1,15 @@
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+
+
+table{
+    width: 200px;
+    height: 100px;
+    border: #2b2b2b 1px solid;
+    background: rgba(255, 166, 0, 0.212);
+}
+
