@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de registro - Mi web</title>
+</head>
+<body>
+    <form>
+        <label for="name">Nombre</label><br>
+        <input type="text" id="name" name="name" maxlength="50"></input>
+        <br></br>
+        <label for="lastname">Apellido</label><br>
+        <input type="text" id="lastname" name="lastname" maxlength="50"></input>
+        <br></br>
+        <label for="email">Email</label><br>
+        <input type="email" id="email" name="email"></input>
+        <br></br>
+        <label for="sexo">Sexo</label><br></br>
+        <input type="radio" id="hombre" name="sexo" value="Hombre"></input>
+        <label for="hombre">Hombre</label><br>
+        <input type="radio" id="mujer" name="sexo" value="Mujer"></input>
+        <label for="mujer">Mujer</label>
+        <br></br>
+        <label for="poblacion">Poblacion</label><br>
+        <select name="poblacion" id="poblacion">
+            <option value="Bucaramanga">Bucaramanga</option>
+            <option value="giron">Giron</option>
+            <option value="Floridablanca">Floridablanca</option>
+            <option value="Piedecuesta">Piedecuesta</option>
+        </select>
+        <br></br>
+        <label for="Description">Descripcion</label><br>
+        <textarea name="Description" id="Description"></textarea>
+        <br></br>
+        <label for="rein">Deseo recibir información sobre novedades y ofertas</label>
+        <input type="checkbox" id="rein" checked></input><br></br>
+        <label for="leer">Declaro haber leído y aceptar las condiciones generales del programa y la normativa sobre protección de datos</label>
+        <input type="checkbox" id="leer"></input><br></br>
+        <button type="submit">Enviar</button>
+        
+    
+    </form>
+
+
+</body>
+</html>
