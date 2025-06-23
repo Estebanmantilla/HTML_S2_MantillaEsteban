@@ -1,0 +1,13 @@
+.inicio{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1920px;
+    height: 1080px;
+    background-color: black;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
