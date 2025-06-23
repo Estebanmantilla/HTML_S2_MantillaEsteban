@@ -1,3 +1,11 @@
+@font-face {
+    font-family: Bolda;
+    src: url("fonts/AmazonEmber_Bd.ttf");
+}
+@font-face {
+    font-family: lighta;
+    src: url("fonts/AmazonEmber_Lt.ttf");
+}
 .inicio{
 
     display: block;
@@ -11,3 +19,34 @@ body{
     margin: 0;
     padding: 0;
 }
+.back{
+    z-index: 1;
+}
+.front{
+    position: absolute;
+    top: 227px;
+    left: 682px;
+    z-index: 2;
+}
+.search{
+    position: absolute;
+    top: 37px;
+    left: 63px;
+    z-index: 2;
+}
+.login{
+    font-family: lighta;
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 30px;
+    left: 1695px;
+    width: 205px;
+    height: 54px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+
