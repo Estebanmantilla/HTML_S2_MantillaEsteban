@@ -48,5 +48,31 @@ body{
     background-color: white;
     border-radius: 25px;
 }
-
+.favorite{
+    font-family: Bolda;
+    color: white;
+    font-size: 60px;
+    position: absolute;
+    top: 470px;
+    left: 389px;
+    white-space: nowrap;
+}
+.resumen1{
+    font-family: lighta;
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    top: 608px;
+    left: 460px;
+    white-space: nowrap;
+}
+.resumen2{
+    font-family: lighta;
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    top: 648px;
+    left: 380px;
+    white-space: nowrap;
+}
 
