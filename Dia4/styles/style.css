@@ -75,4 +75,236 @@ body{
     left: 380px;
     white-space: nowrap;
 }
+.love{
+    font-family: lighta;
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    top: 688px;
+    left: 915px;
+    white-space: nowrap;
+}
+.sign-up{
+    font-family: lighta;
+    display: flex;
+    font-size: 40px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 795px;
+    left: 715px;
+    width: 458px;
+    height: 104px;
+    background-color: white;
+    border-radius: 50px;
+}
+.movies{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1920px;
+    height: 1080px;
+    background-color: black;
+}
+.live{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 1106px;
+    left: 64px;
+    width: 1792px;
+    height: 567px;
+    background-color: rgb(86, 151, 191);
+    border-radius: 50px;
+}
+.content{
+    font-family: Bolda;
+    color: white;
+    font-size: 60px;
+    position: absolute;
+    top: 1px;
+    left: 320px;
+    white-space: nowrap;
+}
+.tv{
+    position: absolute;
+    top: 160px;
+    width: 200px;
+    height: 200px;
+}
+.k{
+    font-family: lighta;
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    top: 360px;
+    left: 290px;
+    white-space: nowrap;
+}
+.sports{
+    font-family: lighta;
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    top: 410px;
+    left: 560px;
+    white-space: nowrap;
+}
+.movies1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 1717px;
+    left: 64px;
+    width: 1792px;
+    height: 443px;
+    background-color: rgb(86, 151, 191);
+    border-radius: 50px;
+}
+.dont{
+    font-family: Bolda;
+    color: white;
+    font-size: 60px;
+    position: absolute;
+    top: 1px;
+    left: 80px;
+    white-space: nowrap;
+}
+.space{
+    position: absolute;
+    top: 140px;
+    left: 607px;
+    width: 101px;
+    height: 170px;
+}
+.red{
+    position: absolute;
+    top: 140px;
+    left: 717px;
+    width: 101px;
+    height: 170px;
+}
+.soul{
+    position: absolute;
+    top: 140px;
+    left: 827px;
+    width: 101px;
+    height: 170px;
+}
+.tentacles{
+    position: absolute;
+    top: 140px;
+    left: 937px;
+    width: 101px;
+    height: 170px;
+}
+.sen{
+    position: absolute;
+    top: 140px;
+    left: 1047px;
+    width: 101px;
+    height: 170px;
+}
+.find{
+    font-family: lighta;
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    top: 265px;
+    left: 490px;
+    white-space: nowrap;
+}
+.but{
+    font-family: lighta;
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    top: 305px;
+    left: 340px;
+    white-space: nowrap;
+}
+.final{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1920px;
+    height: 1080px;
+    background-color: black;
+}
+.cancel{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 2206px;
+    left: 64px;
+    width: 1792px;
+    height: 527px;
+    background-color: rgb(86, 151, 191);
+    border-radius: 50px;
+}
+.time{
+    font-family: Bolda;
+    color: white;
+    font-size: 60px;
+    position: absolute;
+    top: 1px;
+    left: 540px;
+    white-space: nowrap;
+}
+.cross{
+    position: absolute;
+    top: 2360px;
+    left: 900px;
+}
+.services{
+    font-family: lighta;
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    top: 2495px;
+    left: 350px;
+    white-space: nowrap;
+}
+.fees{
+    font-family: lighta;
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    top: 2545px;
+    left: 920px;
+    white-space: nowrap;
+}
+.devices{
+    font-family: lighta;
+    color: white;
+    font-size: 125px;
+    position: absolute;
+    top: 2645px;
+    left: 420px;
+    white-space: nowrap;
+}
+.range{
+    font-family: lighta;
+    color: white;
+    font-size: 45px;
+    position: absolute;
+    top: 2885px;
+    left: 220px;
+    white-space: nowrap;
+}
+.entretaimenta{
+    font-family: lighta;
+    color: white;
+    font-size: 45px;
+    position: absolute;
+    top: 2935px;
+    left: 780px;
+    white-space: nowrap;
+}
+
 
